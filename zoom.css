@@ -1,0 +1,10 @@
+#viewer {
+    width: 640px;
+    height: 360px;
+    overflow: hidden;
+    background: #666;
+    border: 2px solid black;
+}
+#pic {
+    position: relative;
+}
